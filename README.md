@@ -30,8 +30,8 @@ La façon la plus simple d'installer et de maintenir le client à jour est d'uti
 
 | Plateforme | Outil | Description |
 |---|---|---|
-| 🪟 Windows | Launcher Azeroth Universe | Launcher complet avec interface graphique |
-| 🪟 Windows | Mini Launcher | Alternative légère, sans dépendance externe |
+| 🖥️ Windows | Launcher Azeroth Universe | Launcher complet avec interface graphique |
+| 🖥️ Windows | Mini Launcher | Alternative légère, sans dépendance externe |
 | 🍏 macOS | Updater Azeroth Universe | Installation et mise à jour du client |
 | 🚨 Windows | Launcher d'urgence | Solution de secours, téléchargement direct depuis ce dépôt |
 
