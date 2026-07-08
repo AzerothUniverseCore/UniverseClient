@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚔️ Azeroth Universe — UniverseClient
+# ⚔️ Azeroth Universe - UniverseClient
 
 **Client de jeu public d'Azeroth Universe**
 
@@ -35,7 +35,7 @@ La façon la plus simple d'installer et de maintenir le client à jour est d'uti
 | 🍏 macOS | Updater Azeroth Universe | Installation et mise à jour du client |
 | 🚨 Windows | Launcher d'urgence | Solution de secours, téléchargement direct depuis ce dépôt |
 
-Les launchers gèrent automatiquement le téléchargement, la vérification des mises à jour et l'extraction des patchs — aucune manipulation manuelle nécessaire.
+Les launchers gèrent automatiquement le téléchargement, la vérification des mises à jour et l'extraction des patchs - aucune manipulation manuelle nécessaire.
 
 ### Option manuelle
 
@@ -69,7 +69,7 @@ AzerothUniverse/
 
 Chaque fichier du client est publié en tant que Release distincte, dont le **tag correspond au nom du fichier**.
 
-### Patchs — `Data/`
+### Patchs - `Data/`
 
 ```
 common.MPQ, common-2.MPQ, expansion.MPQ, lichking.MPQ,
@@ -81,7 +81,7 @@ patch-K.MPQ, patch-N.MPQ, patch-T.MPQ, patch-U.MPQ,
 patch-V.MPQ, patch-Y.MPQ, patch-Z.MPQ
 ```
 
-### Patchs — `Data/frFR/`
+### Patchs - `Data/frFR/`
 
 ```
 backup-frFR.MPQ, base-frFR.MPQ, expansion-locale-frFR.MPQ,
